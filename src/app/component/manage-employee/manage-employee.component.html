@@ -1,0 +1,31 @@
+<button style="margin-bottom:0.5cm;" type="button" class="btn btn-dark">
+  Add Employee
+</button>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Empolyee Id</th>
+      <th scope="col">Employee Name</th>
+      <th scope="col">Username</th>
+      <th scope="col">Designation</th>
+      <th scope="col">Email</th>
+      <th scope="col">Edit/Delete</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let emp of employees">
+    console.log("welcome");
+    <tr>
+      <td></td>
+      <td>{{ emp.employeeId }}</td>
+      <td>{{ emp.employeeName }}</td>
+      <td>{{ emp.username }}</td>
+      <td>{{ emp.designation }}</td>
+      <td>{{ emp.email }}</td>
+      <td><button class="btn btn-success">gyerfyg</button></td>
+    </tr>
+  </tbody>
+</table>
+<!-- <app-view-employee-item *ngFor="let emp of employees" [emp]="emp">
+</app-view-employee-item> -->
