@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "employeeId": 1,
+      "employeeName": "wefrf",
+      "username": "sgic03003",
+      "designation": "developer",
+      "email": "hwgf@gmail.com"
+    },
+    {
+      "employeeId": 2,
+      "employeeName": "rtgrt",
+      "username": "sgic03005",
+      "designation": "developer",
+      "email": "h5gf@gmail.com"
+    },
+    {
+      "employeeId": 3,
+      "employeeName": "rtgrt",
+      "username": "sgic03005",
+      "designation": "developer",
+      "email": "h5gf@gmail.com"
+    },
+    {
+      "employeeId": 4,
+      "employeeName": "rtgrt",
+      "username": "sgic03005",
+      "designation": "developer",
+      "email": "h5gf@gmail.com"
+    },
+    {
+      "employeeId": 5,
+      "employeeName": "rtgrt",
+      "username": "sgic03005",
+      "designation": "developer",
+      "email": "h5gf@gmail.com"
+    }
+  ]
+}
